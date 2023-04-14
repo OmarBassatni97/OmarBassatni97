@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OmarBassatni97
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front End Development
+- 🌱 I’m currently working as a  Front End Developer
 - 📫 To get in touch omarbassatni@gmail.com
 
 <!---
